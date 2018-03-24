@@ -1,3 +1,13 @@
-somos pouco mais muito loucos
+git init : configura o arquivo atual como "Working odirectory"
 
-cachorro loco.
+git add: copia o arquivo para !Area de Stage"
+
+git commit: gerar uma versão dos arquivos que estão na área stage
+
+git ls-files: mostrar os arquivos que estão versionandos
+
+git status: mostra a situação dos arquivos modificados.
+
+git log: mostra as versões do arquivo especificado.
+
+
