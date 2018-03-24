@@ -10,4 +10,4 @@ git status: mostra a situação dos arquivos modificados.
 
 git log: mostra as versões do arquivo especificado.
 
-
+git log -p v1.txt: mostra os log de alterações.
